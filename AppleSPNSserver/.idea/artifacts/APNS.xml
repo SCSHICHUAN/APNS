@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="APNS">
+    <output-path>$PROJECT_DIR$/out/artifacts/APNS</output-path>
+    <root id="archive" name="APNS.war">
+      <element id="javaee-facet-resources" facet="AppleSPNSserver/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="AppleSPNSserver" />
+          <element id="library" level="project" name="lib" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
